@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-groq
+langchain-community
+langgraph # for saving memory
+pydantic
+colorama #imp for langsmith 
+fastapi[standard]
+langserve #used with fast api
+
+#pip install -r requirements.txt
+#pip install -U "langgraph-cli[inmem]" -> to start langsmith server
